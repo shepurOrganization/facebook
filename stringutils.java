@@ -1,3 +1,3 @@
-I am from development branch
+I am from development branch and from master
 this is for git hub demo
 This line for PR Demo.....
